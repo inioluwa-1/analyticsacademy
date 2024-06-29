@@ -1,0 +1,229 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bar{
+    width: 100%;
+    height: 80px;
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 5px black;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.go{
+    width: 78px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+span{
+    margin-left: -295px;
+    margin-top: 20px;
+    color: #4A4A4A;
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
+.si{
+    width: 90px;
+    height: 40px;
+    margin-left: 300px;
+    margin-top: 20px;
+    background-color: #4285F4;
+    font-family: sans-serif;
+    color: #FFFFFF;
+    font-weight: 700;
+    border: none;
+}
+.ors{
+    background-color: #FE7700;
+    width: 100%;
+    height: 60px;
+    padding: 10px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.lea{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.wo{
+    width: 100%;
+    height: 350px;
+
+}
+.fre{
+    margin: 30px 70px;
+    font-size: 40px;
+    font-family: sans-serif;
+    
+}
+.aca{
+    margin: 30px 50px;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    padding: 12px 24px;
+    font-family: sans-serif;
+    
+}
+.our{
+    background-color: #4285F4;
+    width: 100%;
+    height: 1000px;
+}
+.to{
+    font-size: 30px;
+    padding: 30px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: #FFFFFF;
+}
+.con{
+    display: grid;
+    gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows:  430px 430px;
+    justify-content: center;
+    margin: 5px 30px;
+}
+.vee{
+    background-color: #FFFFFF;
+    box-shadow: 1px 1px 1px 1px black;   
+}
+.poll{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
+.be{
+    font-size: 23.2px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin: 0px 15px;
+}
+.fea{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    margin: 20px 15px;
+    font-family: sans-serif;
+}
+.tt{
+    background-color: #FFFFFF;
+    width: 100%;
+    height: 800px; 
+    padding: 40px; 
+    display: grid;
+    grid-template-columns: 1fr;  
+}
+.mee{
+    font-size: 30px;
+    padding-bottom: 30px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: black;
+    width: 100%;
+}
+.man{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 5fr;   
+    padding: 10px;
+    
+}
+.manone{
+    padding: 0px 0px 40px;
+    box-shadow: 1px 1px 1px black;
+    background-color: whitesmoke;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+.fg{
+    width: 100%;
+    height: 200px;
+    border-radius: 10%;
+}
+.cu{
+    font-size: 24px;
+    font-family: sans-serif;
+    line-height: 54px;
+}
+.pa{
+    width: 100%;
+    height: 300px;
+}
+.sea{
+    padding: 0px 50px;
+}
+.dee{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+.cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 20px 50px;
+    gap: 20px;
+}
+.gg{
+    box-shadow: 1px 1px 1px black;
+    background-color: #F2F2F2;
+    height: 150px;
+}
+.fet{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    margin: 0px 15px;
+    font-family: sans-serif;
+    text-align: center;
+}
+.pol{
+    width: 50px;
+    height: 50px;
+    margin: 10px 90px;
+}
+.last{
+    background-color: #F2F2F2;
+    width: 100%;
+    height: 250px;
+}
+.hee{
+    font-size: 30px;
+    padding: 30px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: sans-serif;
+    color: black;
+    width: 100%;
+}
+.five{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    padding: 20px;
+}
+.two{
+    width: 100%;
+    height: 60px;
+    text-align: end;
+    padding: 20px;
+}
+.four{
+    text-decoration: none;
+    color: #4A4A4A;
+    padding: 20px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400px;
+}
